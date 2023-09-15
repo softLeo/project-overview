@@ -1,5 +1,5 @@
-# Welcome to [project overview]
+# Welcome to my personal Project Overview!
 
-For an overview of this project, please refer to the [PDF Documentation](personalProjectsDS.pdf).
+For seeing the file, please enter into the [PDF Doc](personalProjectsDS.pdf).
 
 Thank you for your interest!
